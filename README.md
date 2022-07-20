@@ -1,8 +1,8 @@
 # Learning MongoDB
-This is the repository for the LinkedIn Learning course Learning MongoDB. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the Vistaar's course Learning MongoDB. 
 
 ![Learning MongoDB][lil-thumbnail-url] 
-Excelling in an ever-changing software development world requires true "full stack" experience. Knowledge of nonrelational databases in particular adds exciting new capabilities and features that make everyday development easier, more streamlined, and vastly more scalable. This course provides an introduction to using MongoDB, one of the most popular nonrelational databases. Discover how to create documents to store data, organize documents in collections, and write queries to read, update, and delete documents. Instructor Justin Jenkins also shows how to properly index data to increase performance in MongoDB, and then shows how MongoDB can be integrated with applications written in Python, Node.js, and PHP. In the final chapter, he covers basic server administration, including replication, sharding, security, and backups. Make sure to practice your newfound MongoDB skills using the challenge and solution sets issued along the way.
+Excelling in an ever-changing software development world requires true "full stack" experience. Knowledge of nonrelational databases in particular adds exciting new capabilities and features that make everyday development easier, more streamlined, and vastly more scalable. This course provides an introduction to using MongoDB, one of the most popular nonrelational databases. Discover how to create documents to store data, organize documents in collections, and write queries to read, update, and delete documents.This course also teaches how to properly index data to increase performance in MongoDB, and then shows how MongoDB can be integrated with applications written in Python, Node.js, and PHP. In the final chapter, we cover basic server administration, including replication, sharding, security, and backups. Make sure to practice your newfound MongoDB skills using the challenge and solution sets issued along the way.
 
 ## Learning objectives
 - Installing MongoDB on Windows and macOS
@@ -25,11 +25,4 @@ To make sure you have tools like `mongoimport` and `mongoexport` you may need to
 
 https://www.mongodb.com/try/download/database-tools
 
-### Instructor
 
-**Justin Jenkins**
-
-_Full Stack Developer_
-
-[lil-course-url]: https://www.linkedin.com/learning/learning-mongodb
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2835008/2835008-1598381281629-16x9.jpg
